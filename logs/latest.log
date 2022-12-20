@@ -1,0 +1,35 @@
+[19Dec2022 00:08:32.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Djentile has made the advancement [Isn't It Iron Pick]
+[19Dec2022 00:11:29.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Djentile has made the advancement [Suit Up]
+[19Dec2022 00:19:58.550] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=39, y=140, z=-320} BlockPos{x=70, y=134, z=-334}
+[19Dec2022 00:24:04.992] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=138, z=-308} BlockPos{x=28, y=130, z=-294}
+[19Dec2022 00:24:05.045] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=34, y=138, z=-308} BlockPos{x=28, y=130, z=-294}
+[19Dec2022 00:37:51.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Llewellynjc hit the ground too hard
+[19Dec2022 00:38:02.055] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Llewellynjc lost connection: Disconnected
+[19Dec2022 00:38:02.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Llewellynjc left the game
+[19Dec2022 00:38:20.600] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Djentile lost connection: Disconnected
+[19Dec2022 00:38:20.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Djentile left the game
+[19Dec2022 00:40:21.033] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2timestuba lost connection: Disconnected
+[19Dec2022 00:40:21.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2timestuba left the game
+[19Dec2022 00:48:19.429] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lonewolf5233 lost connection: Disconnected
+[19Dec2022 00:48:19.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lonewolf5233 left the game
+[19Dec2022 17:11:02.269] [User Authenticator #8/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player 2timestuba is 3b0b8e11-2d48-4c29-b6c0-73bc761c322a
+[19Dec2022 17:11:03.976] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2fd2e4f
+[19Dec2022 17:11:03.982] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 2timestuba[/192.168.1.91:52089] logged in with entity id 34912 at (130.16756170524843, 93.0, -84.1830413298787)
+[19Dec2022 17:11:03.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2timestuba joined the game
+[19Dec2022 17:13:25.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2timestuba has made the advancement [A Seedy Place]
+[19Dec2022 17:19:26.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2timestuba has made the advancement [The Parrots and the Bats]
+[19Dec2022 17:32:45.181] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2timestuba lost connection: Disconnected
+[19Dec2022 17:32:45.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2timestuba left the game
+[19Dec2022 17:38:54.421] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5799ms or 115 ticks behind
+[19Dec2022 17:39:08.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[19Dec2022 17:39:08.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[19Dec2022 17:39:08.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[19Dec2022 17:39:08.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[19Dec2022 17:39:10.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19Dec2022 17:39:10.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19Dec2022 17:39:10.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19Dec2022 17:39:10.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19Dec2022 17:39:10.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19Dec2022 17:39:10.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19Dec2022 17:39:10.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19Dec2022 17:39:10.662] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
